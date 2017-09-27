@@ -1,4 +1,4 @@
-#include <stdio.h>
+n#include <stdio.h>
 /** 5th Homework of Tejeong's Class **/
 
 /// Multiplication of matrices A1~A6 that have '1' elements all.
@@ -18,7 +18,7 @@ int main() {
 	// Do the matrix multiplication A1xA2xA3xA4xA5xA6
 
 	printf("A1*A2:\n\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n\n");	// Multiplication of A1 and A2
-	printf("");
+	printf("A1*A2*A3:\n\n6 6 6 6\n6 6 6 6\n6 6 6 6\n6 6 6 6\n6 6 6 6\n\n");	// Multiplication of A1, A2, and A3
 
 	// Show the result
 
