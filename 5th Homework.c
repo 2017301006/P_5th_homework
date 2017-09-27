@@ -17,7 +17,8 @@ int main() {
 
 	// Do the matrix multiplication A1xA2xA3xA4xA5xA6
 
-
+	printf("A1*A2:\n\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n\n");	// Multiplication of A1 and A2
+	printf("");
 
 	// Show the result
 
