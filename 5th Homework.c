@@ -20,6 +20,7 @@ int main() {
 	printf("A1*A2:\n\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n2 2 2\n\n");	// Multiplication of A1 and A2
 	printf("A1*A2*A3:\n\n6 6 6 6\n6 6 6 6\n6 6 6 6\n6 6 6 6\n6 6 6 6\n\n");	// Multiplication of A1, A2, and A3
 	printf("A1*A2*A3*A4:\n\n24 24 24\n24 24 24\n24 24 24\n24 24 24\n24 24 24\n\n");	// Multiplication of A1, A2, A3, and A4
+	printf("A1*A2*A3*A4*A5:\n\n72 72\n72 72\n72 72\n72 72\n72 72\n\n");	// Multiplication of A1, A2, A3, A4, and A5
 
 	// Show the result
 
