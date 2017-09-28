@@ -7,7 +7,7 @@ int main() {
 
 	// Show each matrix A1~A6
 
-	printf("This program will multiply matrices A1~A6 that have '1' elements in themselves.");
+	printf("This program will multiply matrices A1~A6 that have '1' elements in themselves.\n\n");
 	printf("A1:\n\n1 1\n1 1\n1 1\n1 1\n1 1\n\n");	// Matrix A1 (5 by 2)
 	printf("A2:\n\n1 1 1\n1 1 1\n\n");	// Matrix A2 (2 by 3)
 	printf("A3:\n\n1 1 1 1\n1 1 1 1\n1 1 1 1\n\n");	// Matrix A3 (3 by 4)
