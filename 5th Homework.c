@@ -1,4 +1,4 @@
-n#include <stdio.h>
+#include <stdio.h>
 /** 5th Homework of Tejeong's Class **/
 
 /// Multiplication of matrices A1~A6 that have '1' elements all.
